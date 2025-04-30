@@ -1,4 +1,4 @@
-## # 👩🏻‍💻 Jefferson Bernardo
+## 👨‍💻 Jefferson Bernardo
 
 **`Futuro Analista de Dados`**
 
