@@ -1,9 +1,11 @@
+<!-- cabeçalho -->
 ## 👨‍💻 Jefferson Bernardo
 
 **`Futuro Analista de Dados`**
 
 Me chamo Jefferson Bernardo Juliano, tenho 27 anos e sou natural de São José do Rio Preto. Concluí o ensino médio na Etec Philadelpho Gouvêa Netto, com o curso técnico em informática para internet. Atualmente, estou cursando Análise de dados na EBAC. Sou apaixonado por tecnologia e gosto de compartilho meu conhecimento.
 
+<!-- formatação das imagens para redes sociais e contatos -->
 <p align="left">
     <a href="">
         <img 
@@ -29,9 +31,9 @@ Me chamo Jefferson Bernardo Juliano, tenho 27 anos e sou natural de São José d
 </p>
 
 ---
-
+<!-- cabeçalho em nivél 3 -->
 ### 🤖 Linguagens e Tecnologias
-
+<!-- formatação imagens de liguagens -->
 <img 
     align="left" 
     alt="HTML"
@@ -51,9 +53,9 @@ Me chamo Jefferson Bernardo Juliano, tenho 27 anos e sou natural de São José d
 
 <br/>
 <br/>
-
+<!-- cabeçalho em nivél 3 -->
 ### 📊 Estatísticas
-
+<!-- formatação imagens de status dentro do GitHub -->
 <p>
   <img 
     align="left" 
