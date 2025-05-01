@@ -53,6 +53,7 @@ Me chamo Jefferson Bernardo Juliano, tenho 27 anos e sou natural de São José d
 
 <br/>
 <br/>
+
 <!-- cabeçalho em nivél 3 -->
 ### 📊 Estatísticas
 <!-- formatação imagens de status dentro do GitHub -->
