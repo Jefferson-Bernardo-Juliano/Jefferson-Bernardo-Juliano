@@ -36,8 +36,8 @@ Me chamo Jefferson Bernardo Juliano, tenho 27 anos e sou natural de São José d
 <!-- formatação imagens de liguagens -->
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="LINUX"
+    title="LINUX" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
@@ -49,6 +49,22 @@ Me chamo Jefferson Bernardo Juliano, tenho 27 anos e sou natural de São José d
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GOOGLE" 
+    title="GOOGLE"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" 
 />
 
 <br/>
