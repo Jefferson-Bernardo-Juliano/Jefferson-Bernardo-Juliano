@@ -60,6 +60,14 @@ Me chamo Jefferson Bernardo Juliano, tenho 27 anos e sou natural de São José d
 />
 <img 
     align="left" 
+    alt="Looker Studio" 
+    title="Looker Studio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.ctfassets.net/qeopvtiy4eew/5d7ZhffO1g9JpFKSXT06kB/629978a1f48ed4bd953d13401d13182a/looker-logo_200x200_square.svg" 
+/>
+<img 
+    align="left" 
     alt="GOOGLE" 
     title="GOOGLE"
     width="30px" 
