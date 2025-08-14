@@ -52,6 +52,22 @@ Me chamo Jefferson Bernardo Juliano, tenho 27 anos e sou natural de São José d
 />
 <img 
     align="left" 
+    alt="PySpark" 
+    title="PySpark"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jupyter" 
+    title="Jupyter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
+/>
+<img 
+    align="left" 
     alt="SQL" 
     title="SQL"
     width="30px" 
