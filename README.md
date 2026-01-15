@@ -80,8 +80,8 @@ Apaixonado por tecnologia, busco sempre aprender mais e compartilhar meu conheci
 />
 <img 
     align="left" 
-    alt="PostgreeSQL"
-    title="PostgreeSQL" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.postgresql.org/media/img/about/press/elephant.png"
