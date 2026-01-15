@@ -80,6 +80,14 @@ Apaixonado por tecnologia, busco sempre aprender mais e compartilhar meu conheci
 />
 <img 
     align="left" 
+    alt="PostgreeSQL"
+    title="PostgreeSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.postgresql.org/media/img/about/press/elephant.png"
+/>
+<img 
+    align="left" 
     alt="Looker Studio" 
     title="Looker Studio"
     width="30px" 
