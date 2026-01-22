@@ -18,8 +18,7 @@ Minha experiência profissional em áreas operacionais me trouxe uma visão prá
 Busco oportunidades para contribuir em equipes que valorizam dados como ferramenta estratégica e onde eu possa evoluir continuamente, trazendo eficiência, clareza e inteligência para a tomada de decisão.
 
 📌 Ferramentas e Tecnologias: Python, SQL, Power BI, Excel, Looker Studio, MySQL, Git/GitHub
-📌 Formação: Analista de Dados – EBAC
-🐙 GitHub: https://github.com/Jefferson-Bernardo-Juliano
+
 ✉️ contato_jefferson@outlook.com | 📞 (17) 99247-2689
 
 <!-- formatação das imagens para redes sociais e contatos -->
