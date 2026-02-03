@@ -108,6 +108,14 @@ Busco oportunidades para contribuir em equipes que valorizam dados como ferramen
 />
 <img 
     align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://logo.svgcdn.com/logos/microsoft-power-bi.png" 
+/>
+<img 
+    align="left" 
     alt="GOOGLE" 
     title="GOOGLE"
     width="30px" 
