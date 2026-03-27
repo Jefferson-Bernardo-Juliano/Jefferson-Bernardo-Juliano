@@ -3,23 +3,21 @@
 
 **`Analista de Dados`**
 
-Olá, me chamo Jefferson Bernardo Juliano, tenho 28 anos e sou natural de São José do Rio Preto.  
-Concluí o ensino médio na Etec Philadelpho Gouvêa Netto, com o curso técnico em Informática para Internet.  
-Sou formado em **Análise de Dados pela EBAC**.  
+Atuo com Salesforce e análise de dados, com foco em automação de processos, organização de informações e apoio à tomada de decisão. Trabalho na criação de orgs, configuração de objetos, campos e relacionamentos, além do desenvolvimento de fluxos (Flows) para tornar processos mais eficientes e estruturados.
 
-Apaixonado por tecnologia, busco sempre aprender mais e compartilhar meu conhecimento.
+Tenho experiência em projetos de dados de ponta a ponta, desde a coleta e tratamento até a modelagem, visualização e geração de insights orientados ao negócio, utilizando Python, SQL, Power BI, Excel e Looker Studio.
 
-Sou Analista de Dados com experiência em projetos completos de ponta a ponta — desde a coleta e tratamento até a modelagem, visualização e geração de insights estratégicos. Trabalho com Python, SQL, Power BI, Excel e Looker Studio, com forte capacidade de transformar bases complexas em análises claras, acionáveis e orientadas a resultados.Atuo com construção de KPIs, storytelling com dados, automações em Python e modelagem SQL. 
+Meu portfólio inclui projetos como automação de processos no Salesforce, análise de funil de vendas com PostgreSQL e dashboards estratégicos no Power BI, todos disponíveis no GitHub.
 
-Meu portfólio inclui projetos como análise exploratória do catálogo da Netflix, criação de banco de dados relacional em MySQL aplicado a um contexto real de negócio e dashboards estratégicos com foco em tomada de decisão. Também utilizo técnicas introdutórias de Machine Learning para agrupamentos e previsões, ampliando o potencial analítico das soluções que desenvolvo.
+Minha vivência em áreas operacionais fortaleceu minha visão prática sobre indicadores, desempenho e comportamento de usuários, permitindo transformar dados e processos em melhorias reais.
 
-Minha experiência profissional em áreas operacionais me trouxe uma visão prática de indicadores, análise de desempenho, comportamento de usuários e melhoria contínua — habilidades que hoje aplico diretamente em projetos de dados. Sou organizado, orientado a resultados e comprometido em entregar análises objetivas, confiáveis e com impacto real no negócio.
+Busco oportunidades para atuar como Administrador Salesforce, contribuindo com automações, organização de dados e soluções que gerem impacto no dia a dia das empresas.
 
-Busco oportunidades para contribuir em equipes que valorizam dados como ferramenta estratégica e onde eu possa evoluir continuamente, trazendo eficiência, clareza e inteligência para a tomada de decisão.
+📌 Ferramentas: Salesforce | Python | SQL | Power BI | Excel | Looker Studio | MySQL | Git/GitHub
 
-📌 Ferramentas e Tecnologias: Python, SQL, Power BI, Excel, Looker Studio, MySQL, Git/GitHub
+🎓 Formação: Administração Salesforce – Corporação Salesforce | Analista de Dados – EBAC
 
-✉️ contato_jefferson@outlook.com | 📞 (17) 99247-2689
+✉️ Contato: contato_jefferson@outlook.com
 
 <!-- formatação das imagens para redes sociais e contatos -->
 <p align="left">
@@ -50,6 +48,14 @@ Busco oportunidades para contribuir em equipes que valorizam dados como ferramen
 <!-- cabeçalho em nivél 3 -->
 ### 🤖 Linguagens e Tecnologias
 <!-- formatação imagens de liguagens -->
+<img 
+    align="left" 
+    alt="Salesforce"
+    title="Salesforce" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"
+/>
 <img 
     align="left" 
     alt="LINUX"
